@@ -16,7 +16,7 @@ const main = async() => {
       ["FarmHero",      `<a href='farmhero'     >Various</a>`,  "GLORY",   "https://oec.farmhero.io"],
       ["SpaceX-MOONX",  `<a href='moonx'        >Various</a>`,  "MOONX",   "https://spacex.financial"],
       ["PandaSwap",     `<a href='pandaswap'    >Various</a>`,  "PND",     "https://app.pandaex.org"],
-      ["Elk",           `<a href='elk'          >Various</a>`,  "ELK",     "https://elk.finance"]
+      ["BxhSwap",       `<a href='bxhswap'      >Various</a>`,  "BXH",     "https://www.bxh.com"]
     ]
   }
 
